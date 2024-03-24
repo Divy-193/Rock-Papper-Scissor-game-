@@ -1,1 +1,1 @@
-# Rock-Papper-Scissor-game-
+Its a  Rock Paper Scissors web design project which allows single-player interaction with the computer. It features a clean interface built with HTML and CSS, while JavaScript handles the game logic and track the data of scoreboard of who wins and losses, providing an engaging and interactive gaming experience.
